@@ -1,0 +1,36 @@
+Reporte de Entradas y Salidas Horizontal,  ,       ,                ,                      ,ECOJET SA       ,            ,                ,             ,       
+                                        ,  ,       ,                ,Desde                 ,01/01/2024      ,            ,Hasta           ,31/01/2024   ,       
+ID                                      ,14,Nombre ,                ,DANY ALIAGA           ,                ,Departamento,                ,TRAFICO      ,       
+29/01/2024 06:55                        ,  ,Entrada,                ,                      ,                ,            ,                ,             ,       
+Entrada                                 ,1 ,       ,Salida          ,0                     ,Tiempo total    ,0:00        ,Horas totales   ,             ,0,00   
+ID                                      ,15,Nombre ,                ,LORENA CHAVEZ VALDIVIA,                ,Departamento,                ,TRAFICO      ,       
+03/01/2024 07:12                        ,  ,Entrada,08/01/2024 07:20,Entrada               ,08/01/2024 15:30,Salida      ,12/01/2024 07:15,             ,Entrada
+17/01/2024 07:18                        ,  ,Entrada,22/01/2024 08:29,Entrada               ,26/01/2024 07:19,Entrada     ,31/01/2024 07:16,             ,Entrada
+Entrada                                 ,7 ,       ,Salida          ,1                     ,Tiempo total    ,8:10        ,Horas totales   ,             ,8,17   
+ID                                      ,16,Nombre ,                ,MARCO GUTIERREZ       ,                ,Departamento,                ,RAMPA        ,       
+05/01/2024 06:26                        ,  ,Entrada,08/01/2024 07:20,Entrada               ,10/01/2024 06:05,Entrada     ,12/01/2024 06:14,             ,Entrada
+15/01/2024 06:15                        ,  ,Entrada,26/01/2024 06:13,Entrada               ,                ,            ,                ,             ,       
+Entrada                                 ,6 ,       ,Salida          ,0                     ,Tiempo total    ,0:00        ,Horas totales   ,             ,0,00   
+ID                                      ,17,Nombre ,                ,EDUARDO GUZMAN        ,                ,Departamento,                ,AVSEC        ,       
+03/01/2024 06:47                        ,  ,Entrada,05/01/2024 06:09,Entrada               ,08/01/2024 07:20,Entrada     ,10/01/2024 06:34,             ,Entrada
+12/01/2024 06:24                        ,  ,Entrada,15/01/2024 06:29,Entrada               ,17/01/2024 06:22,Entrada     ,19/01/2024 06:12,             ,Entrada
+22/01/2024 07:22                        ,  ,Entrada,24/01/2024 06:49,Entrada               ,26/01/2024 06:21,Entrada     ,29/01/2024 06:26,             ,Entrada
+31/01/2024 06:37                        ,  ,Entrada,                ,                      ,                ,            ,                ,             ,       
+Entrada                                 ,13,       ,Salida          ,0                     ,Tiempo total    ,0:00        ,Horas totales   ,             ,0,00   
+ID                                      ,18,Nombre ,                ,JESUS KOGA            ,                ,Departamento,                ,RAMPA        ,       
+03/01/2024 06:04                        ,  ,Entrada,05/01/2024 06:09,Entrada               ,10/01/2024 06:00,Entrada     ,12/01/2024 06:11,             ,Entrada
+15/01/2024 06:15                        ,  ,Entrada,17/01/2024 06:15,Entrada               ,19/01/2024 06:12,Entrada     ,19/01/2024 17:46,             ,Salida 
+24/01/2024 06:17                        ,  ,Entrada,26/01/2024 06:14,Entrada               ,29/01/2024 06:25,Entrada     ,31/01/2024 06:38,             ,Entrada
+Entrada                                 ,11,       ,Salida          ,1                     ,Tiempo total    ,11:34       ,Horas totales   ,             ,11,57  
+ID                                      ,19,Nombre ,                ,MIGUEL VELASCO        ,                ,Departamento,                ,MTTO         ,       
+03/01/2024 06:58                        ,  ,Entrada,05/01/2024 07:02,Entrada               ,08/01/2024 08:30,Entrada     ,10/01/2024 06:49,             ,Entrada
+12/01/2024 07:41                        ,  ,Entrada,15/01/2024 07:00,Entrada               ,17/01/2024 07:03,Entrada     ,19/01/2024 07:05,             ,Entrada
+19/01/2024 17:46                        ,  ,Salida ,22/01/2024 08:28,Entrada               ,24/01/2024 07:41,Entrada     ,26/01/2024 08:11,             ,Entrada
+29/01/2024 08:02                        ,  ,Entrada,31/01/2024 08:02,Entrada               ,                ,            ,                ,             ,       
+Entrada                                 ,13,       ,Salida          ,1                     ,Tiempo total    ,10:41       ,Horas totales   ,             ,10,68  
+ID                                      ,20,Nombre ,                ,JHENNY VILLCA         ,                ,Departamento,                ,TRAFICO      ,       
+03/01/2024 06:58                        ,  ,Entrada,05/01/2024 07:08,Entrada               ,10/01/2024 07:06,Entrada     ,15/01/2024 07:07,             ,Entrada
+15/01/2024 16:26                        ,  ,Salida ,19/01/2024 07:08,Entrada               ,19/01/2024 18:45,Salida      ,24/01/2024 07:09,             ,Entrada
+29/01/2024 07:07                        ,  ,Entrada,                ,                      ,                ,            ,                ,             ,       
+Entrada                                 ,7 ,       ,Salida          ,2                     ,Tiempo total    ,20:56       ,Horas totales   ,             ,20,93  
+Fecha / Hora:19/02/2024 16:19           ,  ,       ,                ,                      ,                ,            ,                ,P?gina: 1 / 1,       

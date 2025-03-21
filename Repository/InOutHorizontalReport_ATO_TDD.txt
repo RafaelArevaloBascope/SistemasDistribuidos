@@ -1,0 +1,358 @@
+Reporte de Entradas y Salidas Horizontal,  ,       ,                ,                 ,ECOJET SA       ,            ,                ,             ,       
+                                        ,  ,       ,                ,Desde            ,01/01/2024      ,            ,Hasta           ,31/01/2024   ,       
+ID                                      ,10,Nombre ,                ,MARTIN AGUILERA  ,                ,Departamento,                ,TRAFICO      ,       
+02/01/2024 10:53                        ,  ,Entrada,02/01/2024 17:59,Salida           ,03/01/2024 10:56,Entrada     ,03/01/2024 18:00,             ,Salida 
+04/01/2024 10:52                        ,  ,Entrada,04/01/2024 17:58,Salida           ,05/01/2024 11:07,Entrada     ,05/01/2024 18:00,             ,Salida 
+06/01/2024 07:01                        ,  ,Entrada,06/01/2024 15:38,Salida           ,07/01/2024 10:57,Entrada     ,07/01/2024 19:32,             ,Salida 
+08/01/2024 10:44                        ,  ,Entrada,08/01/2024 18:06,Salida           ,09/01/2024 10:33,Entrada     ,09/01/2024 17:55,             ,Salida 
+11/01/2024 10:51                        ,  ,Entrada,11/01/2024 17:53,Salida           ,12/01/2024 10:44,Entrada     ,12/01/2024 20:11,             ,Salida 
+13/01/2024 06:56                        ,  ,Entrada,13/01/2024 14:03,Salida           ,14/01/2024 10:58,Entrada     ,14/01/2024 18:04,             ,Salida 
+15/01/2024 10:53                        ,  ,Entrada,15/01/2024 17:54,Salida           ,16/01/2024 11:03,Entrada     ,16/01/2024 18:04,             ,Salida 
+17/01/2024 11:03                        ,  ,Entrada,17/01/2024 17:58,Salida           ,18/01/2024 11:01,Entrada     ,18/01/2024 21:11,             ,Salida 
+19/01/2024 09:27                        ,  ,Entrada,19/01/2024 20:22,Salida           ,21/01/2024 06:51,Entrada     ,21/01/2024 19:55,             ,Salida 
+23/01/2024 05:41                        ,  ,Entrada,23/01/2024 18:35,Salida           ,25/01/2024 10:58,Entrada     ,25/01/2024 18:24,             ,Salida 
+26/01/2024 11:02                        ,  ,Entrada,26/01/2024 18:02,Salida           ,27/01/2024 06:59,Entrada     ,27/01/2024 14:05,             ,Salida 
+28/01/2024 10:58                        ,  ,Entrada,28/01/2024 17:58,Salida           ,30/01/2024 08:01,Entrada     ,30/01/2024 20:09,             ,Salida 
+31/01/2024 10:59                        ,  ,Entrada,31/01/2024 18:11,Salida           ,                ,            ,                ,             ,       
+Entrada                                 ,25,       ,Salida          ,25               ,Tiempo total    ,206:39      ,Horas totales   ,             ,206,65 
+ID                                      ,11,Nombre ,                ,MILTON ARDAYA    ,                ,Departamento,                ,RAMPA        ,       
+01/01/2024 10:53                        ,  ,Entrada,01/01/2024 18:13,Salida           ,02/01/2024 11:00,Entrada     ,02/01/2024 18:00,             ,Salida 
+03/01/2024 12:47                        ,  ,Entrada,03/01/2024 17:52,Salida           ,04/01/2024 10:49,Entrada     ,04/01/2024 18:00,             ,Salida 
+05/01/2024 10:59                        ,  ,Entrada,05/01/2024 18:00,Salida           ,08/01/2024 10:54,Entrada     ,08/01/2024 18:00,             ,Salida 
+09/01/2024 10:49                        ,  ,Entrada,09/01/2024 18:03,Salida           ,10/01/2024 10:54,Entrada     ,10/01/2024 18:44,             ,Salida 
+11/01/2024 10:57                        ,  ,Entrada,11/01/2024 17:59,Salida           ,12/01/2024 11:05,Entrada     ,12/01/2024 20:12,             ,Salida 
+14/01/2024 11:01                        ,  ,Entrada,14/01/2024 18:00,Salida           ,15/01/2024 10:59,Entrada     ,15/01/2024 18:01,             ,Salida 
+16/01/2024 10:57                        ,  ,Entrada,16/01/2024 18:01,Salida           ,25/01/2024 10:44,Salida      ,25/01/2024 18:20,             ,Salida 
+26/01/2024 12:03                        ,  ,Entrada,26/01/2024 18:00,Salida           ,27/01/2024 06:37,Entrada     ,28/01/2024 10:51,             ,Entrada
+28/01/2024 18:00                        ,  ,Salida ,29/01/2024 11:08,Entrada          ,29/01/2024 20:57,Salida      ,30/01/2024 10:50,             ,Entrada
+30/01/2024 20:09                        ,  ,Salida ,31/01/2024 10:36,Entrada          ,31/01/2024 18:03,Salida      ,                ,             ,       
+Entrada                                 ,19,       ,Salida          ,20               ,Tiempo total    ,140:18      ,Horas totales   ,             ,140,30 
+ID                                      ,12,Nombre ,                ,ALEJANDRA ARIAS  ,                ,Departamento,                ,TRAFICO      ,       
+02/01/2024 10:57                        ,  ,Entrada,02/01/2024 18:01,Salida           ,03/01/2024 11:07,Entrada     ,03/01/2024 18:02,             ,Salida 
+04/01/2024 11:00                        ,  ,Entrada,04/01/2024 18:04,Salida           ,05/01/2024 11:01,Entrada     ,05/01/2024 18:04,             ,Salida 
+06/01/2024 07:02                        ,  ,Entrada,06/01/2024 15:38,Salida           ,07/01/2024 11:08,Entrada     ,07/01/2024 19:31,             ,Salida 
+08/01/2024 11:07                        ,  ,Entrada,08/01/2024 18:15,Salida           ,09/01/2024 11:10,Entrada     ,09/01/2024 18:05,             ,Salida 
+10/01/2024 11:08                        ,  ,Entrada,10/01/2024 18:52,Salida           ,12/01/2024 11:04,Entrada     ,12/01/2024 20:17,             ,Salida 
+13/01/2024 07:08                        ,  ,Entrada,13/01/2024 14:02,Salida           ,14/01/2024 11:05,Entrada     ,14/01/2024 18:02,             ,Salida 
+15/01/2024 10:58                        ,  ,Entrada,15/01/2024 18:01,Salida           ,16/01/2024 10:53,Entrada     ,16/01/2024 18:02,             ,Salida 
+17/01/2024 11:12                        ,  ,Entrada,17/01/2024 18:12,Salida           ,18/01/2024 10:58,Entrada     ,18/01/2024 21:08,             ,Salida 
+19/01/2024 08:55                        ,  ,Entrada,19/01/2024 20:27,Salida           ,22/01/2024 11:02,Entrada     ,22/01/2024 18:25,             ,Salida 
+24/01/2024 11:06                        ,  ,Entrada,24/01/2024 18:01,Salida           ,25/01/2024 05:43,Entrada     ,25/01/2024 18:16,             ,Salida 
+26/01/2024 10:58                        ,  ,Entrada,26/01/2024 18:08,Salida           ,28/01/2024 11:01,Entrada     ,28/01/2024 18:00,             ,Salida 
+29/01/2024 10:45                        ,  ,Entrada,29/01/2024 20:42,Salida           ,30/01/2024 08:11,Entrada     ,30/01/2024 20:12,             ,Salida 
+31/01/2024 11:12                        ,  ,Entrada,31/01/2024 18:10,Salida           ,                ,            ,                ,             ,       
+Entrada                                 ,25,       ,Salida          ,25               ,Tiempo total    ,202:46      ,Horas totales   ,             ,202,77 
+ID                                      ,13,Nombre ,                ,DENILSSON ARTEAGA,                ,Departamento,                ,MTTO         ,       
+01/01/2024 11:10                        ,  ,Entrada,01/01/2024 18:15,Salida           ,02/01/2024 10:56,Entrada     ,02/01/2024 18:02,             ,Salida 
+03/01/2024 11:06                        ,  ,Entrada,03/01/2024 18:01,Salida           ,04/01/2024 10:38,Entrada     ,04/01/2024 18:02,             ,Salida 
+05/01/2024 11:03                        ,  ,Entrada,05/01/2024 18:01,Salida           ,06/01/2024 07:09,Entrada     ,06/01/2024 15:28,             ,Salida 
+07/01/2024 11:02                        ,  ,Entrada,07/01/2024 19:40,Salida           ,08/01/2024 10:42,Entrada     ,08/01/2024 18:05,             ,Salida 
+09/01/2024 10:59                        ,  ,Entrada,09/01/2024 18:08,Salida           ,10/01/2024 10:55,Entrada     ,10/01/2024 18:51,             ,Salida 
+11/01/2024 11:05                        ,  ,Entrada,11/01/2024 18:06,Salida           ,12/01/2024 09:19,Entrada     ,12/01/2024 20:13,             ,Salida 
+13/01/2024 07:18                        ,  ,Entrada,13/01/2024 14:20,Salida           ,14/01/2024 11:04,Entrada     ,14/01/2024 18:00,             ,Salida 
+15/01/2024 11:08                        ,  ,Entrada,15/01/2024 18:02,Salida           ,16/01/2024 11:06,Entrada     ,16/01/2024 18:01,             ,Salida 
+26/01/2024 11:06                        ,  ,Entrada,26/01/2024 18:05,Salida           ,27/01/2024 07:11,Entrada     ,27/01/2024 14:21,             ,Salida 
+29/01/2024 11:02                        ,  ,Entrada,29/01/2024 20:54,Salida           ,30/01/2024 06:32,Entrada     ,30/01/2024 20:19,             ,Salida 
+31/01/2024 11:08                        ,  ,Entrada,31/01/2024 18:09,Salida           ,                ,            ,                ,             ,       
+Entrada                                 ,21,       ,Salida          ,21               ,Tiempo total    ,165:24      ,Horas totales   ,             ,165,40 
+ID                                      ,14,Nombre ,                ,JORGE BARBA      ,                ,Departamento,                ,RAMPA        ,       
+01/01/2024 10:54                        ,  ,Entrada,01/01/2024 18:16,Salida           ,02/01/2024 10:35,Entrada     ,02/01/2024 18:00,             ,Salida 
+03/01/2024 10:55                        ,  ,Entrada,03/01/2024 18:00,Salida           ,04/01/2024 11:07,Entrada     ,04/01/2024 18:00,             ,Salida 
+05/01/2024 11:08                        ,  ,Entrada,05/01/2024 18:01,Salida           ,07/01/2024 10:50,Entrada     ,07/01/2024 19:32,             ,Salida 
+09/01/2024 10:55                        ,  ,Entrada,09/01/2024 18:01,Salida           ,10/01/2024 10:31,Entrada     ,10/01/2024 18:46,             ,Salida 
+11/01/2024 10:40                        ,  ,Entrada,11/01/2024 18:00,Salida           ,12/01/2024 10:59,Entrada     ,12/01/2024 20:16,             ,Salida 
+13/01/2024 06:55                        ,  ,Entrada,13/01/2024 14:03,Salida           ,14/01/2024 10:48,Entrada     ,14/01/2024 18:02,             ,Salida 
+16/01/2024 10:50                        ,  ,Entrada,16/01/2024 18:00,Salida           ,17/01/2024 10:55,Entrada     ,17/01/2024 18:00,             ,Salida 
+18/01/2024 10:56                        ,  ,Entrada,18/01/2024 18:58,Salida           ,19/01/2024 10:55,Entrada     ,20/01/2024 06:55,             ,Entrada
+20/01/2024 19:59                        ,  ,Salida ,21/01/2024 05:18,Entrada          ,21/01/2024 19:55,Salida      ,23/01/2024 06:25,             ,Entrada
+23/01/2024 18:18                        ,  ,Salida ,24/01/2024 10:51,Entrada          ,24/01/2024 18:01,Salida      ,25/01/2024 06:25,             ,Entrada
+25/01/2024 18:22                        ,  ,Salida ,26/01/2024 10:53,Entrada          ,26/01/2024 18:03,Salida      ,29/01/2024 10:45,             ,Entrada
+29/01/2024 20:01                        ,  ,Salida ,30/01/2024 10:56,Entrada          ,30/01/2024 20:08,Salida      ,                ,             ,       
+Entrada                                 ,24,       ,Salida          ,23               ,Tiempo total    ,197:16      ,Horas totales   ,             ,197,27 
+ID                                      ,15,Nombre ,                ,SANDRO CAMARA    ,                ,Departamento,                ,CCO          ,       
+02/01/2024 10:51                        ,  ,Entrada,02/01/2024 18:01,Salida           ,03/01/2024 10:52,Entrada     ,03/01/2024 18:01,             ,Salida 
+04/01/2024 10:53                        ,  ,Entrada,04/01/2024 18:02,Salida           ,05/01/2024 10:55,Entrada     ,05/01/2024 18:01,             ,Salida 
+07/01/2024 11:04                        ,  ,Entrada,07/01/2024 19:32,Salida           ,08/01/2024 11:03,Entrada     ,08/01/2024 18:03,             ,Salida 
+09/01/2024 11:09                        ,  ,Entrada,09/01/2024 18:05,Salida           ,10/01/2024 11:01,Entrada     ,10/01/2024 18:50,             ,Salida 
+11/01/2024 11:06                        ,  ,Entrada,11/01/2024 18:04,Salida           ,12/01/2024 11:03,Entrada     ,12/01/2024 20:16,             ,Salida 
+14/01/2024 11:07                        ,  ,Entrada,14/01/2024 18:01,Salida           ,15/01/2024 11:04,Entrada     ,15/01/2024 18:01,             ,Salida 
+16/01/2024 11:07                        ,  ,Entrada,16/01/2024 18:01,Salida           ,17/01/2024 11:03,Entrada     ,17/01/2024 18:04,             ,Salida 
+18/01/2024 11:05                        ,  ,Entrada,18/01/2024 18:41,Salida           ,19/01/2024 10:58,Entrada     ,19/01/2024 19:33,             ,Salida 
+21/01/2024 05:18                        ,  ,Entrada,21/01/2024 20:08,Salida           ,23/01/2024 05:44,Entrada     ,23/01/2024 18:23,             ,Salida 
+25/01/2024 05:41                        ,  ,Entrada,25/01/2024 18:15,Salida           ,26/01/2024 10:37,Entrada     ,26/01/2024 18:03,             ,Salida 
+28/01/2024 10:55                        ,  ,Entrada,28/01/2024 18:00,Salida           ,29/01/2024 10:58,Entrada     ,29/01/2024 20:01,             ,Salida 
+30/01/2024 06:51                        ,  ,Entrada,30/01/2024 20:14,Salida           ,31/01/2024 10:53,Entrada     ,31/01/2024 18:04,             ,Salida 
+Entrada                                 ,24,       ,Salida          ,24               ,Tiempo total    ,203:06      ,Horas totales   ,             ,203,10 
+ID                                      ,16,Nombre ,                ,MANUEL CARRILLO  ,                ,Departamento,                ,CARGA        ,       
+02/01/2024 07:50                        ,  ,Entrada,02/01/2024 15:02,Salida           ,03/01/2024 11:00,Entrada     ,03/01/2024 18:04,             ,Salida 
+04/01/2024 08:02                        ,  ,Entrada,04/01/2024 08:02,Entrada          ,04/01/2024 15:04,Salida      ,05/01/2024 11:01,             ,Entrada
+05/01/2024 18:07                        ,  ,Salida ,07/01/2024 10:58,Entrada          ,07/01/2024 19:28,Salida      ,08/01/2024 11:00,             ,Entrada
+08/01/2024 18:05                        ,  ,Salida ,09/01/2024 07:56,Entrada          ,09/01/2024 15:00,Salida      ,10/01/2024 11:14,             ,Entrada
+10/01/2024 19:02                        ,  ,Salida ,11/01/2024 08:02,Entrada          ,11/01/2024 15:04,Salida      ,12/01/2024 11:01,             ,Entrada
+12/01/2024 19:55                        ,  ,Salida ,13/01/2024 07:03,Entrada          ,13/01/2024 14:24,Salida      ,15/01/2024 11:07,             ,Entrada
+15/01/2024 18:07                        ,  ,Salida ,16/01/2024 07:55,Entrada          ,16/01/2024 15:04,Salida      ,17/01/2024 11:02,             ,Entrada
+17/01/2024 18:09                        ,  ,Salida ,18/01/2024 07:46,Entrada          ,18/01/2024 15:02,Salida      ,19/01/2024 10:56,             ,Entrada
+19/01/2024 19:14                        ,  ,Salida ,20/01/2024 07:07,Entrada          ,20/01/2024 20:00,Salida      ,22/01/2024 10:48,             ,Entrada
+22/01/2024 18:20                        ,  ,Salida ,23/01/2024 05:41,Entrada          ,23/01/2024 14:56,Salida      ,24/01/2024 11:01,             ,Entrada
+24/01/2024 18:02                        ,  ,Salida ,25/01/2024 05:46,Entrada          ,25/01/2024 13:15,Salida      ,26/01/2024 11:04,             ,Entrada
+26/01/2024 18:06                        ,  ,Salida ,27/01/2024 06:56,Entrada          ,27/01/2024 14:01,Salida      ,29/01/2024 11:05,             ,Entrada
+29/01/2024 20:08                        ,  ,Salida ,30/01/2024 07:54,Entrada          ,30/01/2024 15:01,Salida      ,31/01/2024 10:56,             ,Entrada
+31/01/2024 18:18                        ,  ,Salida ,                ,                 ,                ,            ,                ,             ,       
+Entrada                                 ,27,       ,Salida          ,26               ,Tiempo total    ,200:47      ,Horas totales   ,             ,200,78 
+ID                                      ,17,Nombre ,                ,RIDER CHOQUE     ,                ,Departamento,                ,MTTO         ,       
+01/01/2024 11:11                        ,  ,Entrada,01/01/2024 18:16,Salida           ,02/01/2024 10:57,Entrada     ,02/01/2024 18:02,             ,Salida 
+03/01/2024 11:07                        ,  ,Entrada,03/01/2024 18:02,Salida           ,04/01/2024 11:01,Entrada     ,12/01/2024 10:53,             ,Entrada
+12/01/2024 20:13                        ,  ,Salida ,13/01/2024 07:04,Entrada          ,13/01/2024 14:04,Salida      ,14/01/2024 10:59,             ,Entrada
+14/01/2024 18:01                        ,  ,Salida ,15/01/2024 10:55,Entrada          ,15/01/2024 18:03,Salida      ,16/01/2024 11:04,             ,Entrada
+16/01/2024 18:04                        ,  ,Salida ,17/01/2024 10:52,Entrada          ,17/01/2024 18:11,Salida      ,18/01/2024 10:50,             ,Entrada
+18/01/2024 18:32                        ,  ,Salida ,19/01/2024 11:00,Entrada          ,19/01/2024 19:00,Salida      ,20/01/2024 07:27,             ,Entrada
+20/01/2024 19:59                        ,  ,Salida ,21/01/2024 05:58,Entrada          ,21/01/2024 19:55,Salida      ,22/01/2024 10:55,             ,Entrada
+22/01/2024 18:24                        ,  ,Salida ,23/01/2024 18:23,Salida           ,24/01/2024 10:58,Entrada     ,24/01/2024 18:01,             ,Salida 
+25/01/2024 06:32                        ,  ,Entrada,25/01/2024 18:24,Salida           ,26/01/2024 10:55,Entrada     ,26/01/2024 18:03,             ,Salida 
+27/01/2024 07:02                        ,  ,Entrada,27/01/2024 14:33,Salida           ,28/01/2024 10:41,Entrada     ,28/01/2024 17:59,             ,Salida 
+30/01/2024 06:32                        ,  ,Entrada,30/01/2024 19:32,Salida           ,                ,            ,                ,             ,       
+Entrada                                 ,21,       ,Salida          ,21               ,Tiempo total    ,169:26      ,Horas totales   ,             ,169,43 
+ID                                      ,18,Nombre ,                ,JOSE CORTEZ      ,                ,Departamento,                ,CARGA        ,       
+01/01/2024 10:56                        ,  ,Entrada,01/01/2024 18:15,Salida           ,02/01/2024 18:04,Salida      ,04/01/2024 11:04,             ,Entrada
+04/01/2024 18:06                        ,  ,Salida ,05/01/2024 07:58,Entrada          ,05/01/2024 14:59,Salida      ,05/01/2024 15:01,             ,Salida 
+06/01/2024 06:51                        ,  ,Entrada,06/01/2024 15:30,Salida           ,08/01/2024 08:00,Entrada     ,08/01/2024 15:30,             ,Salida 
+08/01/2024 15:36                        ,  ,Salida ,09/01/2024 11:00,Entrada          ,09/01/2024 18:01,Salida      ,10/01/2024 07:57,             ,Entrada
+11/01/2024 10:59                        ,  ,Entrada,11/01/2024 18:03,Salida           ,12/01/2024 08:03,Entrada     ,12/01/2024 15:05,             ,Salida 
+14/01/2024 10:59                        ,  ,Entrada,14/01/2024 18:00,Salida           ,15/01/2024 08:13,Entrada     ,16/01/2024 10:51,             ,Entrada
+16/01/2024 18:03                        ,  ,Salida ,17/01/2024 08:02,Entrada          ,17/01/2024 15:09,Salida      ,17/01/2024 15:14,             ,Salida 
+18/01/2024 10:54                        ,  ,Entrada,18/01/2024 18:06,Salida           ,19/01/2024 08:02,Entrada     ,19/01/2024 15:05,             ,Salida 
+21/01/2024 05:38                        ,  ,Entrada,21/01/2024 19:52,Salida           ,23/01/2024 11:04,Entrada     ,23/01/2024 11:06,             ,Entrada
+23/01/2024 18:06                        ,  ,Salida ,24/01/2024 07:16,Entrada          ,24/01/2024 15:29,Salida      ,25/01/2024 10:48,             ,Entrada
+25/01/2024 18:14                        ,  ,Salida ,25/01/2024 18:17,Salida           ,                ,            ,                ,             ,       
+Entrada                                 ,20,       ,Salida          ,22               ,Tiempo total    ,131:08      ,Horas totales   ,             ,131,13 
+ID                                      ,19,Nombre ,                ,ROILAN GUAYACUMA ,                ,Departamento,                ,RAMPA        ,       
+01/01/2024 11:05                        ,  ,Entrada,01/01/2024 18:13,Salida           ,03/01/2024 10:49,Entrada     ,03/01/2024 18:01,             ,Salida 
+04/01/2024 11:08                        ,  ,Entrada,04/01/2024 18:01,Salida           ,05/01/2024 11:04,Entrada     ,05/01/2024 18:01,             ,Salida 
+06/01/2024 07:01                        ,  ,Entrada,06/01/2024 15:38,Salida           ,07/01/2024 10:49,Entrada     ,07/01/2024 19:27,             ,Salida 
+08/01/2024 11:06                        ,  ,Entrada,08/01/2024 18:02,Salida           ,10/01/2024 11:06,Entrada     ,10/01/2024 18:48,             ,Salida 
+11/01/2024 11:06                        ,  ,Entrada,11/01/2024 18:01,Salida           ,12/01/2024 11:03,Entrada     ,12/01/2024 20:13,             ,Salida 
+13/01/2024 07:10                        ,  ,Entrada,13/01/2024 14:04,Salida           ,14/01/2024 11:01,Entrada     ,14/01/2024 18:01,             ,Salida 
+15/01/2024 11:04                        ,  ,Entrada,15/01/2024 18:00,Salida           ,16/01/2024 10:57,Entrada     ,16/01/2024 18:04,             ,Salida 
+17/01/2024 10:50                        ,  ,Entrada,17/01/2024 17:58,Salida           ,18/01/2024 11:01,Entrada     ,18/01/2024 18:57,             ,Salida 
+19/01/2024 11:00                        ,  ,Entrada,19/01/2024 18:54,Salida           ,22/01/2024 10:57,Entrada     ,22/01/2024 18:18,             ,Salida 
+24/01/2024 11:01                        ,  ,Entrada,24/01/2024 18:00,Salida           ,25/01/2024 05:39,Entrada     ,25/01/2024 18:20,             ,Salida 
+26/01/2024 10:58                        ,  ,Entrada,26/01/2024 18:03,Salida           ,27/01/2024 06:55,Entrada     ,27/01/2024 14:05,             ,Salida 
+28/01/2024 11:01                        ,  ,Entrada,28/01/2024 18:00,Salida           ,29/01/2024 10:58,Entrada     ,29/01/2024 20:05,             ,Salida 
+31/01/2024 11:06                        ,  ,Entrada,31/01/2024 18:07,Salida           ,                ,            ,                ,             ,       
+Entrada                                 ,25,       ,Salida          ,25               ,Tiempo total    ,191:26      ,Horas totales   ,             ,191,43 
+ID                                      ,20,Nombre ,                ,BEVERLY JIMENEZ  ,                ,Departamento,                ,TRAFICO      ,       
+01/01/2024 12:04                        ,  ,Entrada,01/01/2024 18:15,Salida           ,02/01/2024 12:03,Entrada     ,02/01/2024 18:01,             ,Salida 
+Entrada                                 ,2 ,       ,Salida          ,2                ,Tiempo total    ,12:09       ,Horas totales   ,             ,12,15  
+ID                                      ,21,Nombre ,                ,OLIVIA JUSTINIANO,                ,Departamento,                ,LIMPIEZA     ,       
+02/01/2024 10:51                        ,  ,Entrada,02/01/2024 18:02,Salida           ,03/01/2024 10:46,Entrada     ,03/01/2024 18:01,             ,Salida 
+04/01/2024 10:33                        ,  ,Entrada,04/01/2024 18:01,Salida           ,05/01/2024 10:34,Entrada     ,05/01/2024 18:00,             ,Salida 
+07/01/2024 10:32                        ,  ,Entrada,07/01/2024 19:27,Salida           ,08/01/2024 10:07,Entrada     ,08/01/2024 17:57,             ,Salida 
+09/01/2024 10:13                        ,  ,Entrada,09/01/2024 18:01,Salida           ,10/01/2024 10:25,Entrada     ,10/01/2024 18:42,             ,Salida 
+11/01/2024 10:29                        ,  ,Entrada,11/01/2024 17:37,Salida           ,12/01/2024 10:28,Entrada     ,12/01/2024 19:51,             ,Salida 
+14/01/2024 10:27                        ,  ,Entrada,14/01/2024 17:38,Salida           ,15/01/2024 10:52,Entrada     ,15/01/2024 17:59,             ,Salida 
+16/01/2024 10:33                        ,  ,Entrada,16/01/2024 17:40,Salida           ,17/01/2024 10:50,Entrada     ,17/01/2024 17:53,             ,Salida 
+18/01/2024 10:17                        ,  ,Entrada,18/01/2024 18:32,Salida           ,19/01/2024 10:58,Entrada     ,19/01/2024 18:48,             ,Salida 
+21/01/2024 05:29                        ,  ,Entrada,21/01/2024 12:57,Salida           ,22/01/2024 10:30,Entrada     ,22/01/2024 18:18,             ,Salida 
+23/01/2024 06:25                        ,  ,Entrada,23/01/2024 13:30,Salida           ,24/01/2024 10:16,Entrada     ,24/01/2024 17:51,             ,Salida 
+25/01/2024 05:40                        ,  ,Entrada,25/01/2024 12:59,Salida           ,26/01/2024 10:53,Entrada     ,26/01/2024 18:03,             ,Salida 
+28/01/2024 10:15                        ,  ,Entrada,28/01/2024 18:00,Salida           ,29/01/2024 11:00,Entrada     ,29/01/2024 20:00,             ,Salida 
+30/01/2024 10:20                        ,  ,Entrada,30/01/2024 19:56,Salida           ,31/01/2024 11:01,Entrada     ,31/01/2024 18:10,             ,Salida 
+Entrada                                 ,26,       ,Salida          ,26               ,Tiempo total    ,201:09      ,Horas totales   ,             ,201,15 
+ID                                      ,22,Nombre ,                ,DAVID LEIGUE     ,                ,Departamento,                ,RAMPA        ,       
+02/01/2024 11:02                        ,  ,Entrada,02/01/2024 18:02,Salida           ,04/01/2024 11:09,Entrada     ,04/01/2024 18:08,             ,Salida 
+05/01/2024 10:59                        ,  ,Entrada,05/01/2024 17:59,Salida           ,06/01/2024 07:11,Entrada     ,06/01/2024 15:37,             ,Salida 
+07/01/2024 11:02                        ,  ,Entrada,07/01/2024 19:32,Salida           ,08/01/2024 11:11,Entrada     ,08/01/2024 18:07,             ,Salida 
+09/01/2024 11:14                        ,  ,Entrada,09/01/2024 18:02,Salida           ,11/01/2024 10:25,Entrada     ,11/01/2024 17:59,             ,Salida 
+12/01/2024 11:12                        ,  ,Entrada,12/01/2024 20:12,Salida           ,13/01/2024 07:01,Entrada     ,13/01/2024 14:03,             ,Salida 
+14/01/2024 11:01                        ,  ,Entrada,14/01/2024 18:00,Salida           ,15/01/2024 11:12,Entrada     ,15/01/2024 18:12,             ,Salida 
+16/01/2024 10:56                        ,  ,Entrada,16/01/2024 18:00,Salida           ,18/01/2024 11:05,Entrada     ,18/01/2024 18:30,             ,Salida 
+19/01/2024 11:06                        ,  ,Entrada,19/01/2024 18:57,Salida           ,20/01/2024 07:20,Entrada     ,20/01/2024 20:08,             ,Salida 
+21/01/2024 05:52                        ,  ,Entrada,21/01/2024 19:52,Salida           ,22/01/2024 10:59,Entrada     ,22/01/2024 18:17,             ,Salida 
+23/01/2024 06:17                        ,  ,Entrada,23/01/2024 18:22,Salida           ,25/01/2024 06:09,Entrada     ,25/01/2024 18:18,             ,Salida 
+26/01/2024 11:04                        ,  ,Entrada,26/01/2024 18:13,Salida           ,27/01/2024 07:09,Entrada     ,27/01/2024 14:15,             ,Salida 
+28/01/2024 11:06                        ,  ,Entrada,28/01/2024 18:01,Salida           ,29/01/2024 11:07,Entrada     ,29/01/2024 20:01,             ,Salida 
+30/01/2024 10:13                        ,  ,Entrada,30/01/2024 20:08,Salida           ,31/01/2024 11:16,Entrada     ,31/01/2024 18:18,             ,Salida 
+Entrada                                 ,26,       ,Salida          ,26               ,Tiempo total    ,216:55      ,Horas totales   ,             ,216,92 
+ID                                      ,24,Nombre ,                ,JAVIER MONASTERIO,                ,Departamento,                ,RAMPA        ,       
+02/01/2024 10:54                        ,  ,Entrada,02/01/2024 18:00,Salida           ,03/01/2024 10:29,Entrada     ,03/01/2024 18:01,             ,Salida 
+04/01/2024 10:38                        ,  ,Entrada,04/01/2024 18:00,Salida           ,05/01/2024 10:43,Entrada     ,05/01/2024 18:00,             ,Salida 
+08/01/2024 10:39                        ,  ,Entrada,08/01/2024 18:00,Salida           ,09/01/2024 10:33,Entrada     ,09/01/2024 18:02,             ,Salida 
+10/01/2024 10:41                        ,  ,Entrada,10/01/2024 18:43,Salida           ,11/01/2024 10:58,Entrada     ,11/01/2024 18:00,             ,Salida 
+12/01/2024 10:57                        ,  ,Entrada,12/01/2024 20:12,Salida           ,14/01/2024 10:52,Entrada     ,14/01/2024 18:00,             ,Salida 
+15/01/2024 10:38                        ,  ,Entrada,15/01/2024 18:00,Salida           ,16/01/2024 10:34,Entrada     ,16/01/2024 18:00,             ,Salida 
+17/01/2024 10:39                        ,  ,Entrada,17/01/2024 18:00,Salida           ,18/01/2024 10:57,Entrada     ,18/01/2024 18:34,             ,Salida 
+19/01/2024 10:56                        ,  ,Entrada,19/01/2024 18:54,Salida           ,21/01/2024 05:23,Entrada     ,21/01/2024 19:51,             ,Salida 
+22/01/2024 10:46                        ,  ,Entrada,22/01/2024 18:17,Salida           ,23/01/2024 05:47,Entrada     ,23/01/2024 18:25,             ,Salida 
+24/01/2024 10:47                        ,  ,Entrada,24/01/2024 18:00,Salida           ,25/01/2024 05:39,Entrada     ,25/01/2024 18:17,             ,Salida 
+Entrada                                 ,20,       ,Salida          ,20               ,Tiempo total    ,167:46      ,Horas totales   ,             ,167,77 
+ID                                      ,25,Nombre ,                ,ALEJANDRO MONTA?O,                ,Departamento,                ,JEFAT-ATO    ,       
+01/01/2024 11:41                        ,  ,Entrada,01/01/2024 18:18,Salida           ,02/01/2024 10:02,Entrada     ,02/01/2024 18:15,             ,Salida 
+03/01/2024 11:12                        ,  ,Entrada,03/01/2024 18:21,Salida           ,03/01/2024 18:21,Salida      ,04/01/2024 10:58,             ,Entrada
+04/01/2024 18:02                        ,  ,Salida ,05/01/2024 10:37,Entrada          ,05/01/2024 17:58,Salida      ,08/01/2024 10:58,             ,Entrada
+08/01/2024 18:20                        ,  ,Salida ,09/01/2024 10:21,Entrada          ,09/01/2024 18:03,Salida      ,10/01/2024 10:53,             ,Entrada
+10/01/2024 18:53                        ,  ,Salida ,11/01/2024 11:07,Entrada          ,11/01/2024 18:06,Salida      ,12/01/2024 09:00,             ,Entrada
+12/01/2024 20:19                        ,  ,Salida ,14/01/2024 10:54,Entrada          ,14/01/2024 18:01,Salida      ,15/01/2024 10:27,             ,Entrada
+15/01/2024 17:59                        ,  ,Salida ,16/01/2024 10:51,Entrada          ,17/01/2024 10:20,Entrada     ,17/01/2024 18:01,             ,Salida 
+18/01/2024 10:00                        ,  ,Entrada,18/01/2024 21:08,Salida           ,20/01/2024 07:03,Entrada     ,20/01/2024 20:07,             ,Salida 
+21/01/2024 05:28                        ,  ,Entrada,21/01/2024 19:56,Salida           ,22/01/2024 10:56,Entrada     ,22/01/2024 10:56,             ,Entrada
+22/01/2024 10:56                        ,  ,Entrada,22/01/2024 18:27,Salida           ,24/01/2024 10:24,Entrada     ,24/01/2024 10:24,             ,Entrada
+24/01/2024 18:01                        ,  ,Salida ,25/01/2024 05:27,Entrada          ,25/01/2024 05:27,Entrada     ,25/01/2024 18:16,             ,Salida 
+25/01/2024 18:18                        ,  ,Salida ,26/01/2024 09:57,Entrada          ,26/01/2024 18:02,Salida      ,28/01/2024 10:51,             ,Entrada
+28/01/2024 18:01                        ,  ,Salida ,29/01/2024 10:31,Entrada          ,30/01/2024 08:12,Entrada     ,30/01/2024 20:09,             ,Salida 
+31/01/2024 10:33                        ,  ,Entrada,31/01/2024 18:07,Salida           ,                ,            ,                ,             ,       
+Entrada                                 ,29,       ,Salida          ,25               ,Tiempo total    ,201:29      ,Horas totales   ,             ,201,48 
+ID                                      ,26,Nombre ,                ,RAFAEL MU?OZ     ,                ,Departamento,                ,AVSEC        ,       
+02/01/2024 08:10                        ,  ,Entrada,02/01/2024 17:38,Salida           ,03/01/2024 08:09,Entrada     ,03/01/2024 17:58,             ,Salida 
+04/01/2024 07:58                        ,  ,Entrada,04/01/2024 18:00,Salida           ,05/01/2024 08:00,Entrada     ,05/01/2024 17:45,             ,Salida 
+06/01/2024 06:45                        ,  ,Entrada,06/01/2024 15:31,Salida           ,08/01/2024 07:56,Entrada     ,08/01/2024 17:55,             ,Salida 
+09/01/2024 08:01                        ,  ,Entrada,09/01/2024 17:41,Salida           ,10/01/2024 08:10,Entrada     ,10/01/2024 18:45,             ,Salida 
+11/01/2024 08:06                        ,  ,Entrada,11/01/2024 17:46,Salida           ,12/01/2024 08:09,Entrada     ,12/01/2024 20:12,             ,Salida 
+15/01/2024 08:11                        ,  ,Entrada,15/01/2024 17:38,Salida           ,16/01/2024 08:06,Entrada     ,16/01/2024 17:31,             ,Salida 
+17/01/2024 07:55                        ,  ,Entrada,17/01/2024 17:56,Salida           ,18/01/2024 08:06,Entrada     ,18/01/2024 18:57,             ,Salida 
+19/01/2024 08:04                        ,  ,Entrada,19/01/2024 18:56,Salida           ,20/01/2024 06:54,Entrada     ,20/01/2024 19:58,             ,Salida 
+22/01/2024 11:09                        ,  ,Entrada,22/01/2024 18:25,Salida           ,23/01/2024 05:27,Entrada     ,23/01/2024 18:12,             ,Salida 
+24/01/2024 08:07                        ,  ,Entrada,24/01/2024 17:37,Salida           ,25/01/2024 05:52,Entrada     ,25/01/2024 18:17,             ,Salida 
+26/01/2024 08:01                        ,  ,Entrada,26/01/2024 17:51,Salida           ,29/01/2024 08:09,Entrada     ,29/01/2024 20:58,             ,Salida 
+30/01/2024 08:08                        ,  ,Entrada,30/01/2024 20:10,Salida           ,31/01/2024 08:06,Entrada     ,31/01/2024 18:05,             ,Salida 
+Entrada                                 ,24,       ,Salida          ,24               ,Tiempo total    ,250:03      ,Horas totales   ,             ,250,05 
+ID                                      ,27,Nombre ,                ,ANGEL OJOPI      ,                ,Departamento,                ,MTTO         ,       
+02/01/2024 10:45                        ,  ,Entrada,02/01/2024 18:01,Salida           ,03/01/2024 11:04,Entrada     ,03/01/2024 18:01,             ,Salida 
+04/01/2024 11:10                        ,  ,Entrada,04/01/2024 18:02,Salida           ,05/01/2024 11:12,Entrada     ,05/01/2024 18:02,             ,Salida 
+06/01/2024 07:03                        ,  ,Entrada,06/01/2024 15:28,Salida           ,07/01/2024 10:57,Entrada     ,07/01/2024 19:40,             ,Salida 
+08/01/2024 11:02                        ,  ,Entrada,08/01/2024 18:05,Salida           ,09/01/2024 11:14,Entrada     ,10/01/2024 11:11,             ,Entrada
+10/01/2024 18:50                        ,  ,Salida ,11/01/2024 11:13,Entrada          ,11/01/2024 18:06,Salida      ,12/01/2024 11:08,             ,Entrada
+12/01/2024 20:13                        ,  ,Salida ,14/01/2024 11:11,Entrada          ,14/01/2024 18:01,Salida      ,15/01/2024 11:08,             ,Entrada
+15/01/2024 18:02                        ,  ,Salida ,16/01/2024 10:32,Entrada          ,16/01/2024 17:58,Salida      ,17/01/2024 11:26,             ,Entrada
+17/01/2024 18:11                        ,  ,Salida ,18/01/2024 11:08,Entrada          ,18/01/2024 18:32,Salida      ,19/01/2024 10:54,             ,Entrada
+19/01/2024 18:58                        ,  ,Salida ,20/01/2024 07:04,Entrada          ,20/01/2024 19:56,Salida      ,21/01/2024 06:02,             ,Entrada
+21/01/2024 19:54                        ,  ,Salida ,22/01/2024 11:07,Entrada          ,22/01/2024 18:23,Salida      ,23/01/2024 06:45,             ,Entrada
+23/01/2024 18:23                        ,  ,Salida ,24/01/2024 11:11,Entrada          ,24/01/2024 18:02,Salida      ,25/01/2024 06:29,             ,Entrada
+25/01/2024 18:24                        ,  ,Salida ,26/01/2024 11:04,Entrada          ,26/01/2024 18:04,Salida      ,28/01/2024 11:12,             ,Entrada
+28/01/2024 18:00                        ,  ,Salida ,29/01/2024 11:04,Entrada          ,29/01/2024 20:54,Salida      ,30/01/2024 06:16,             ,Entrada
+30/01/2024 20:19                        ,  ,Salida ,31/01/2024 12:07,Entrada          ,31/01/2024 18:09,Salida      ,                ,             ,       
+Entrada                                 ,28,       ,Salida          ,27               ,Tiempo total    ,227:13      ,Horas totales   ,             ,227,22 
+ID                                      ,28,Nombre ,                ,YERCO PANTOJA    ,                ,Departamento,                ,AVSEC        ,       
+01/01/2024 11:13                        ,  ,Entrada,01/01/2024 18:11,Salida           ,02/01/2024 10:50,Entrada     ,02/01/2024 18:00,             ,Salida 
+03/01/2024 11:07                        ,  ,Entrada,03/01/2024 18:00,Salida           ,04/01/2024 11:00,Entrada     ,04/01/2024 18:00,             ,Salida 
+07/01/2024 11:09                        ,  ,Entrada,07/01/2024 19:33,Salida           ,08/01/2024 11:00,Entrada     ,08/01/2024 18:00,             ,Salida 
+09/01/2024 10:57                        ,  ,Entrada,09/01/2024 18:02,Salida           ,10/01/2024 10:41,Entrada     ,10/01/2024 18:41,             ,Salida 
+11/01/2024 10:53                        ,  ,Entrada,11/01/2024 17:59,Salida           ,13/01/2024 07:29,Entrada     ,13/01/2024 13:06,             ,Entrada
+14/01/2024 10:47                        ,  ,Entrada,14/01/2024 18:00,Salida           ,15/01/2024 10:54,Entrada     ,15/01/2024 17:59,             ,Salida 
+16/01/2024 10:56                        ,  ,Entrada,16/01/2024 18:00,Salida           ,17/01/2024 10:50,Entrada     ,17/01/2024 17:56,             ,Salida 
+18/01/2024 11:05                        ,  ,Entrada,18/01/2024 18:26,Salida           ,21/01/2024 05:29,Entrada     ,21/01/2024 19:53,             ,Salida 
+22/01/2024 10:57                        ,  ,Entrada,22/01/2024 18:17,Salida           ,23/01/2024 05:53,Entrada     ,23/01/2024 18:13,             ,Salida 
+24/01/2024 10:57                        ,  ,Entrada,24/01/2024 17:59,Salida           ,25/01/2024 05:33,Entrada     ,27/01/2024 07:09,             ,Entrada
+27/01/2024 13:03                        ,  ,Salida ,28/01/2024 11:10,Entrada          ,28/01/2024 17:54,Salida      ,29/01/2024 10:57,             ,Entrada
+29/01/2024 20:57                        ,  ,Salida ,30/01/2024 05:41,Entrada          ,30/01/2024 20:08,Salida      ,31/01/2024 10:57,             ,Entrada
+31/01/2024 17:57                        ,  ,Salida ,                ,                 ,                ,            ,                ,             ,       
+Entrada                                 ,26,       ,Salida          ,23               ,Tiempo total    ,192:13      ,Horas totales   ,             ,192,22 
+ID                                      ,29,Nombre ,                ,NEHEMIAS RIVERO  ,                ,Departamento,                ,TRAFICO      ,       
+02/01/2024 10:55                        ,  ,Entrada,02/01/2024 18:01,Salida           ,03/01/2024 10:54,Entrada     ,03/01/2024 18:06,             ,Salida 
+04/01/2024 10:56                        ,  ,Entrada,04/01/2024 18:10,Salida           ,05/01/2024 11:02,Entrada     ,05/01/2024 18:05,             ,Salida 
+06/01/2024 07:00                        ,  ,Entrada,06/01/2024 15:30,Salida           ,07/01/2024 11:02,Entrada     ,07/01/2024 19:32,             ,Salida 
+08/01/2024 10:50                        ,  ,Entrada,08/01/2024 18:00,Salida           ,09/01/2024 11:05,Entrada     ,09/01/2024 18:01,             ,Salida 
+10/01/2024 10:56                        ,  ,Entrada,10/01/2024 18:47,Salida           ,11/01/2024 11:05,Entrada     ,11/01/2024 18:04,             ,Salida 
+13/01/2024 07:19                        ,  ,Entrada,14/01/2024 10:52,Entrada          ,14/01/2024 18:00,Salida      ,15/01/2024 10:47,             ,Entrada
+15/01/2024 18:00                        ,  ,Salida ,16/01/2024 11:14,Entrada          ,16/01/2024 18:00,Salida      ,17/01/2024 10:58,             ,Entrada
+17/01/2024 18:00                        ,  ,Salida ,19/01/2024 09:37,Entrada          ,19/01/2024 18:40,Salida      ,20/01/2024 07:07,             ,Entrada
+20/01/2024 20:08                        ,  ,Salida ,21/01/2024 05:39,Entrada          ,21/01/2024 19:53,Salida      ,22/01/2024 11:00,             ,Entrada
+22/01/2024 18:27                        ,  ,Salida ,24/01/2024 10:59,Entrada          ,24/01/2024 18:00,Salida      ,25/01/2024 05:30,             ,Entrada
+25/01/2024 18:33                        ,  ,Salida ,26/01/2024 11:12,Entrada          ,26/01/2024 18:16,Salida      ,30/01/2024 08:02,             ,Entrada
+30/01/2024 20:09                        ,  ,Salida ,31/01/2024 11:07,Entrada          ,31/01/2024 18:04,Salida      ,                ,             ,       
+Entrada                                 ,24,       ,Salida          ,23               ,Tiempo total    ,192:37      ,Horas totales   ,             ,192,62 
+ID                                      ,30,Nombre ,                ,VICTOR SANTOS    ,                ,Departamento,                ,CARGA        ,       
+02/01/2024 11:02                        ,  ,Entrada,02/01/2024 18:07,Salida           ,03/01/2024 08:32,Entrada     ,03/01/2024 15:34,             ,Salida 
+04/01/2024 10:55                        ,  ,Entrada,04/01/2024 18:08,Salida           ,05/01/2024 07:59,Entrada     ,05/01/2024 15:00,             ,Salida 
+07/01/2024 10:50                        ,  ,Entrada,07/01/2024 19:26,Salida           ,08/01/2024 07:58,Entrada     ,08/01/2024 15:07,             ,Salida 
+09/01/2024 11:02                        ,  ,Entrada,09/01/2024 18:03,Salida           ,10/01/2024 08:04,Entrada     ,10/01/2024 15:06,             ,Salida 
+11/01/2024 10:49                        ,  ,Entrada,11/01/2024 18:05,Salida           ,12/01/2024 08:01,Entrada     ,12/01/2024 15:26,             ,Salida 
+14/01/2024 10:57                        ,  ,Entrada,14/01/2024 18:02,Salida           ,15/01/2024 08:04,Entrada     ,15/01/2024 15:15,             ,Salida 
+16/01/2024 11:04                        ,  ,Entrada,16/01/2024 18:05,Salida           ,17/01/2024 08:03,Entrada     ,17/01/2024 15:00,             ,Salida 
+18/01/2024 10:59                        ,  ,Entrada,18/01/2024 18:41,Salida           ,19/01/2024 07:59,Entrada     ,19/01/2024 15:12,             ,Salida 
+21/01/2024 05:30                        ,  ,Entrada,21/01/2024 19:51,Salida           ,22/01/2024 10:56,Entrada     ,22/01/2024 18:19,             ,Salida 
+23/01/2024 10:56                        ,  ,Entrada,23/01/2024 18:14,Salida           ,24/01/2024 08:03,Entrada     ,24/01/2024 15:06,             ,Salida 
+25/01/2024 10:58                        ,  ,Entrada,25/01/2024 18:24,Salida           ,26/01/2024 08:02,Entrada     ,26/01/2024 15:11,             ,Salida 
+28/01/2024 10:58                        ,  ,Entrada,28/01/2024 18:00,Salida           ,29/01/2024 08:04,Entrada     ,29/01/2024 15:08,             ,Salida 
+30/01/2024 10:54                        ,  ,Entrada,30/01/2024 20:06,Salida           ,31/01/2024 08:09,Entrada     ,31/01/2024 15:31,             ,Salida 
+Entrada                                 ,26,       ,Salida          ,26               ,Tiempo total    ,197:19      ,Horas totales   ,             ,197,32 
+ID                                      ,31,Nombre ,                ,ARMANDO SUAREZ   ,                ,Departamento,                ,RAMPA        ,       
+02/01/2024 10:51                        ,  ,Entrada,02/01/2024 18:00,Salida           ,03/01/2024 10:36,Entrada     ,03/01/2024 18:00,             ,Salida 
+05/01/2024 10:44                        ,  ,Entrada,05/01/2024 18:01,Salida           ,06/01/2024 06:53,Entrada     ,06/01/2024 15:37,             ,Salida 
+07/01/2024 10:51                        ,  ,Entrada,07/01/2024 19:31,Salida           ,08/01/2024 10:41,Entrada     ,08/01/2024 18:00,             ,Salida 
+09/01/2024 10:52                        ,  ,Entrada,09/01/2024 18:01,Salida           ,10/01/2024 10:49,Entrada     ,10/01/2024 18:48,             ,Salida 
+11/01/2024 10:47                        ,  ,Entrada,11/01/2024 18:00,Salida           ,12/01/2024 10:49,Entrada     ,12/01/2024 20:12,             ,Salida 
+15/01/2024 10:57                        ,  ,Entrada,15/01/2024 18:00,Salida           ,16/01/2024 10:50,Entrada     ,16/01/2024 18:00,             ,Salida 
+17/01/2024 10:35                        ,  ,Entrada,17/01/2024 18:00,Salida           ,19/01/2024 10:36,Entrada     ,19/01/2024 18:57,             ,Salida 
+20/01/2024 06:52                        ,  ,Entrada,20/01/2024 19:59,Salida           ,21/01/2024 05:40,Entrada     ,21/01/2024 19:52,             ,Salida 
+22/01/2024 10:46                        ,  ,Entrada,22/01/2024 18:17,Salida           ,23/01/2024 05:43,Entrada     ,23/01/2024 18:13,             ,Salida 
+24/01/2024 10:51                        ,  ,Entrada,24/01/2024 18:01,Salida           ,26/01/2024 10:49,Entrada     ,26/01/2024 18:00,             ,Salida 
+27/01/2024 06:51                        ,  ,Entrada,27/01/2024 14:00,Salida           ,28/01/2024 10:46,Entrada     ,28/01/2024 18:01,             ,Salida 
+29/01/2024 10:40                        ,  ,Entrada,29/01/2024 20:00,Salida           ,30/01/2024 10:47,Entrada     ,30/01/2024 20:09,             ,Salida 
+31/01/2024 10:50                        ,  ,Entrada,31/01/2024 18:04,Salida           ,                ,            ,                ,             ,       
+Entrada                                 ,25,       ,Salida          ,25               ,Tiempo total    ,210:17      ,Horas totales   ,             ,210,28 
+ID                                      ,32,Nombre ,                ,VIANCA TEMO      ,                ,Departamento,                ,LIMPIEZA     ,       
+01/01/2024 10:54                        ,  ,Entrada,01/01/2024 18:12,Salida           ,02/01/2024 10:33,Entrada     ,02/01/2024 17:37,             ,Salida 
+03/01/2024 10:40                        ,  ,Entrada,03/01/2024 17:43,Salida           ,05/01/2024 10:32,Entrada     ,05/01/2024 17:36,             ,Salida 
+06/01/2024 06:31                        ,  ,Entrada,06/01/2024 15:26,Salida           ,07/01/2024 10:40,Entrada     ,07/01/2024 19:25,             ,Salida 
+08/01/2024 10:40                        ,  ,Entrada,08/01/2024 17:57,Salida           ,09/01/2024 10:47,Entrada     ,09/01/2024 18:02,             ,Salida 
+10/01/2024 10:51                        ,  ,Entrada,10/01/2024 18:43,Salida           ,12/01/2024 10:31,Entrada     ,12/01/2024 20:12,             ,Salida 
+13/01/2024 07:23                        ,  ,Entrada,13/01/2024 14:03,Salida           ,14/01/2024 10:44,Entrada     ,14/01/2024 17:47,             ,Salida 
+15/01/2024 10:35                        ,  ,Entrada,15/01/2024 18:00,Salida           ,16/01/2024 10:49,Entrada     ,16/01/2024 18:00,             ,Salida 
+17/01/2024 10:49                        ,  ,Entrada,17/01/2024 17:53,Salida           ,19/01/2024 09:50,Entrada     ,19/01/2024 18:49,             ,Salida 
+20/01/2024 06:44                        ,  ,Entrada,20/01/2024 19:54,Salida           ,21/01/2024 10:52,Entrada     ,21/01/2024 19:52,             ,Salida 
+22/01/2024 09:59                        ,  ,Entrada,22/01/2024 18:16,Salida           ,23/01/2024 10:57,Entrada     ,23/01/2024 18:13,             ,Salida 
+25/01/2024 11:03                        ,  ,Entrada,25/01/2024 18:15,Salida           ,26/01/2024 10:08,Entrada     ,26/01/2024 18:02,             ,Salida 
+27/01/2024 07:55                        ,  ,Entrada,27/01/2024 13:10,Salida           ,28/01/2024 11:01,Entrada     ,28/01/2024 18:00,             ,Salida 
+29/01/2024 10:10                        ,  ,Entrada,30/01/2024 11:10,Entrada          ,30/01/2024 19:56,Salida      ,31/01/2024 10:30,             ,Entrada
+31/01/2024 18:05                        ,  ,Salida ,                ,                 ,                ,            ,                ,             ,       
+Entrada                                 ,27,       ,Salida          ,26               ,Tiempo total    ,204:00      ,Horas totales   ,             ,204,00 
+ID                                      ,33,Nombre ,                ,HUMBERTO VACA    ,                ,Departamento,                ,CARGA        ,       
+01/01/2024 11:01                        ,  ,Entrada,01/01/2024 18:17,Salida           ,02/01/2024 07:57,Entrada     ,02/01/2024 15:35,             ,Salida 
+03/01/2024 11:04                        ,  ,Entrada,03/01/2024 18:05,Salida           ,04/01/2024 08:00,Entrada     ,04/01/2024 15:04,             ,Salida 
+05/01/2024 10:54                        ,  ,Entrada,05/01/2024 18:07,Salida           ,06/01/2024 06:58,Entrada     ,06/01/2024 15:31,             ,Salida 
+08/01/2024 11:00                        ,  ,Entrada,08/01/2024 18:06,Salida           ,09/01/2024 07:57,Entrada     ,09/01/2024 15:00,             ,Salida 
+10/01/2024 10:58                        ,  ,Entrada,10/01/2024 18:54,Salida           ,11/01/2024 07:59,Entrada     ,11/01/2024 15:06,             ,Salida 
+12/01/2024 10:58                        ,  ,Entrada,12/01/2024 20:12,Salida           ,13/01/2024 06:58,Entrada     ,15/01/2024 10:58,             ,Entrada
+15/01/2024 18:04                        ,  ,Salida ,16/01/2024 07:58,Entrada          ,16/01/2024 15:04,Salida      ,17/01/2024 10:57,             ,Entrada
+17/01/2024 18:09                        ,  ,Salida ,18/01/2024 08:02,Entrada          ,18/01/2024 15:36,Salida      ,19/01/2024 10:55,             ,Entrada
+19/01/2024 19:25                        ,  ,Salida ,20/01/2024 06:59,Entrada          ,20/01/2024 19:57,Salida      ,23/01/2024 05:44,             ,Entrada
+23/01/2024 13:21                        ,  ,Salida ,24/01/2024 11:01,Entrada          ,24/01/2024 18:13,Salida      ,25/01/2024 05:38,             ,Entrada
+25/01/2024 13:16                        ,  ,Salida ,26/01/2024 10:52,Entrada          ,26/01/2024 18:07,Salida      ,27/01/2024 07:04,             ,Entrada
+28/01/2024 11:01                        ,  ,Entrada,28/01/2024 18:01,Salida           ,29/01/2024 11:01,Entrada     ,29/01/2024 20:07,             ,Salida 
+30/01/2024 10:58                        ,  ,Entrada,30/01/2024 19:54,Salida           ,31/01/2024 10:59,Entrada     ,31/01/2024 18:28,             ,Salida 
+Entrada                                 ,27,       ,Salida          ,25               ,Tiempo total    ,195:50      ,Horas totales   ,             ,195,83 
+ID                                      ,34,Nombre ,                ,JOSE VARGAS      ,                ,Departamento,                ,TRAFICO      ,       
+01/01/2024 10:55                        ,  ,Entrada,01/01/2024 18:10,Salida           ,02/01/2024 10:55,Entrada     ,02/01/2024 18:02,             ,Salida 
+03/01/2024 10:38                        ,  ,Entrada,04/01/2024 10:46,Entrada          ,04/01/2024 18:00,Salida      ,05/01/2024 10:59,             ,Entrada
+05/01/2024 18:01                        ,  ,Salida ,07/01/2024 10:46,Entrada          ,07/01/2024 19:27,Salida      ,08/01/2024 10:52,             ,Entrada
+08/01/2024 18:15                        ,  ,Salida ,09/01/2024 11:02,Entrada          ,09/01/2024 18:01,Salida      ,10/01/2024 10:52,             ,Entrada
+10/01/2024 18:42                        ,  ,Salida ,11/01/2024 10:51,Entrada          ,11/01/2024 18:12,Salida      ,12/01/2024 10:59,             ,Entrada
+12/01/2024 20:11                        ,  ,Salida ,14/01/2024 10:51,Entrada          ,14/01/2024 18:00,Salida      ,15/01/2024 10:52,             ,Entrada
+15/01/2024 18:00                        ,  ,Salida ,17/01/2024 10:45,Entrada          ,17/01/2024 18:06,Salida      ,18/01/2024 11:00,             ,Entrada
+18/01/2024 21:13                        ,  ,Salida ,19/01/2024 09:16,Entrada          ,19/01/2024 20:21,Salida      ,20/01/2024 07:07,             ,Entrada
+20/01/2024 20:08                        ,  ,Salida ,21/01/2024 06:12,Entrada          ,21/01/2024 20:08,Salida      ,22/01/2024 10:45,             ,Entrada
+22/01/2024 18:22                        ,  ,Salida ,23/01/2024 05:52,Entrada          ,23/01/2024 18:24,Salida      ,26/01/2024 10:29,             ,Entrada
+26/01/2024 18:09                        ,  ,Salida ,27/01/2024 06:37,Entrada          ,27/01/2024 14:01,Salida      ,28/01/2024 10:51,             ,Entrada
+28/01/2024 18:00                        ,  ,Salida ,29/01/2024 10:40,Entrada          ,29/01/2024 20:58,Salida      ,30/01/2024 07:51,             ,Entrada
+30/01/2024 20:19                        ,  ,Salida ,31/01/2024 10:35,Entrada          ,31/01/2024 18:04,Salida      ,                ,             ,       
+Entrada                                 ,26,       ,Salida          ,25               ,Tiempo total    ,218:34      ,Horas totales   ,             ,218,57 
+ID                                      ,35,Nombre ,                ,MIRIAN CHAVEZ    ,                ,Departamento,                ,TRAFICO      ,       
+05/01/2024 13:46                        ,  ,Entrada,05/01/2024 14:26,Salida           ,12/01/2024 10:10,Entrada     ,12/01/2024 18:24,             ,Salida 
+23/01/2024 14:03                        ,  ,Entrada,23/01/2024 14:46,Salida           ,24/01/2024 13:43,Entrada     ,24/01/2024 15:15,             ,Salida 
+29/01/2024 11:02                        ,  ,Entrada,29/01/2024 12:27,Salida           ,30/01/2024 11:51,Entrada     ,30/01/2024 20:10,             ,Salida 
+Entrada                                 ,6 ,       ,Salida          ,6                ,Tiempo total    ,20:53       ,Horas totales   ,             ,20,88  
+ID                                      ,36,Nombre ,                ,ARGELIA LOPEZ    ,                ,Departamento,                ,TRAFICO      ,       
+01/01/2024 11:08                        ,  ,Entrada,01/01/2024 18:14,Salida           ,03/01/2024 11:03,Entrada     ,03/01/2024 18:01,             ,Salida 
+04/01/2024 11:05                        ,  ,Entrada,04/01/2024 18:00,Salida           ,05/01/2024 11:02,Entrada     ,05/01/2024 18:00,             ,Salida 
+06/01/2024 07:06                        ,  ,Entrada,06/01/2024 15:28,Salida           ,07/01/2024 11:03,Entrada     ,07/01/2024 19:27,             ,Salida 
+08/01/2024 10:58                        ,  ,Entrada,08/01/2024 18:16,Salida           ,09/01/2024 11:02,Entrada     ,09/01/2024 18:02,             ,Salida 
+10/01/2024 11:04                        ,  ,Entrada,10/01/2024 18:42,Salida           ,11/01/2024 11:03,Entrada     ,11/01/2024 18:01,             ,Salida 
+12/01/2024 11:05                        ,  ,Entrada,12/01/2024 20:11,Salida           ,16/01/2024 10:57,Entrada     ,16/01/2024 18:04,             ,Salida 
+17/01/2024 11:03                        ,  ,Entrada,17/01/2024 18:04,Salida           ,18/01/2024 11:04,Entrada     ,18/01/2024 21:12,             ,Salida 
+19/01/2024 09:55                        ,  ,Entrada,19/01/2024 20:22,Salida           ,20/01/2024 07:10,Entrada     ,20/01/2024 19:54,             ,Salida 
+21/01/2024 06:49                        ,  ,Entrada,21/01/2024 20:07,Salida           ,22/01/2024 11:06,Entrada     ,22/01/2024 18:18,             ,Salida 
+23/01/2024 06:25                        ,  ,Entrada,23/01/2024 18:25,Salida           ,25/01/2024 11:06,Entrada     ,25/01/2024 18:20,             ,Salida 
+27/01/2024 07:12                        ,  ,Entrada,28/01/2024 11:08,Entrada          ,28/01/2024 18:00,Salida      ,29/01/2024 11:00,             ,Entrada
+30/01/2024 08:54                        ,  ,Entrada,30/01/2024 20:09,Salida           ,31/01/2024 11:03,Entrada     ,31/01/2024 18:03,             ,Salida 
+Entrada                                 ,25,       ,Salida          ,23               ,Tiempo total    ,195:01      ,Horas totales   ,             ,195,02 
+Fecha / Hora:19/02/2024 16:35           ,  ,       ,                ,                 ,                ,            ,                ,P?gina: 1 / 1,       
